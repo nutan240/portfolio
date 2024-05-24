@@ -1,0 +1,13 @@
+.imageee{
+    height: 300px;
+    width: 600px;
+    border-radius: 20px;
+}
+
+@media (min-width: 300px) and (max-width: 880px){
+    .imageee{
+        height: 300px;
+        width: 300px;
+        /* border-radius: 20px; */
+    }  
+}

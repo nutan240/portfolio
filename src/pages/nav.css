@@ -1,0 +1,12 @@
+
+.nav_bar{
+    margin-bottom: 20px;
+    /* background-color: white; */
+}
+.content{
+    float:right ;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    /* width: 100px; */
+}
